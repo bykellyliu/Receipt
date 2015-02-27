@@ -1,0 +1,89 @@
+table{
+	margin-right: auto;
+	margin-left: auto;
+	border-collapse: collapse;
+	width: 60%;
+	color: white;
+	border-color: grey;
+	border: 3px solid grey;
+}
+
+body{
+	background-color: #250672;
+	font-family:"Arial";
+}
+th{
+	border-color: grey;
+	background-color: #452B83;
+	border: 3px solid grey;
+}
+tr{
+	height: 30px;
+}
+
+td{
+	border-color: grey;
+	border-style: solid;
+}
+
+.column1{
+	width: 30%;
+	font-weight: bold;
+	text-align: center;
+	background-color: #7147d7;
+}
+
+.column2{
+	width: 30%;
+	text-align: left;
+	background-color: #7147d7;
+}
+
+.column3{
+	width: 10%;
+	text-align: left;
+	background-color: #7147d7;
+}
+
+.column4{
+	width: 10%;
+	text-align: right;
+	background-color: #7147d7;
+}
+
+.column5{
+	width: 10%;
+	text-align: right;
+	background-color: #7147d7;
+}
+
+.column6{
+	width: 10%;
+	text-align: right;
+	background-color: #7147d7;
+}
+
+#grandTotal{
+	text-align: right;
+	font-weight: bold;
+	background-color: #452B83;
+}
+
+tr#GST{
+	text-align: right;
+	font-weight: bold;
+	background-color: #452B83;
+}
+
+tr#netPayable{
+	text-align: right;
+	font-weight: bold;
+	background-color: #452B83;
+}
+	
+	
+	
+
+
+
+	
